@@ -5,7 +5,7 @@ from time import strftime
 import re
 
 #i/o for operations
-log_file_path = r"C:\Windows\Temp\test.log"
+log_file_path = r"C:\Windows\Temp\tomcat.log"
 export_file_path = r"C:\Windows\Temp"
 
 #setting the time to a readable string 
